@@ -17,4 +17,4 @@
 4. Data exploration - lots of variables have to be explored
 5. Feature engineering - creating new variables out of existing ones, to create a meaningful model afterwards
 6. Predictive modeling - testing several variables and consecutively evaluating the model in order to find the best fit for a linear regression model with multiple variables
-7. Visualization - can be found in this repository as pdf-file "King County Real Estate Presentation.pdf"
+7. Visualization - can be found in this repository as pdf-file "King County Real Estate Presentation_Fabian Werkmeister.pdf"
